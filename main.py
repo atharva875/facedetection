@@ -28,4 +28,3 @@ while(True):
             cap.release()
             cv2.destoryAllWindows()
 
-hello
